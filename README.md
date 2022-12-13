@@ -51,6 +51,7 @@
 ![ubuntu](https://img.shields.io/badge/ubuntu%20-%23150458.svg?&style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![cloud](https://img.shields.io/badge/cloud%20-%23150458.svg?&style=flat&logo=cloud&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL%20-%23150458.svg?&style=flat&logo=SQL&logoColor=A8B9CC)&nbsp;
+![NoSQL](https://img.shields.io/badge/NoSQL%20-%23150458.svg?&style=flat&logo=NoSQL&logoColor=A8B9CC)&nbsp;
 
 
 
