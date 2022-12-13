@@ -50,7 +50,7 @@
 ![Linux](https://img.shields.io/badge/Linux%20-%23150458.svg?&style=flat&logo=linux&logoColor=white)&nbsp;
 ![ubuntu](https://img.shields.io/badge/ubuntu%20-%23150458.svg?&style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![cloud](https://img.shields.io/badge/cloud%20-%23150458.svg?&style=flat&logo=cloud&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL%20-%23150458.svg?&style=flat&logo=SQL&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL%20-%23150458.svg?&style=flat&logo=SQL&logoColor=A8B9CC)&nbsp;
 
 
 <br>
