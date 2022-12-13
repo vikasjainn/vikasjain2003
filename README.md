@@ -49,6 +49,7 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux%20-%23150458.svg?&style=flat&logo=linux&logoColor=white)&nbsp;
+![cloud](https://img.shields.io/badge/cloud%20-%23150458.svg?&style=flat&logo=cloud&logoColor=white)&nbsp;
 
 <br>
 
