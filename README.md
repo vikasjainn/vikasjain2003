@@ -9,9 +9,9 @@
 ### Let's Connect :coffee:
 <hr/>
 <p>
-<a href="https://github.com/vinayrajak3766"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/vinay-rajak-b5b447182/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/mr_viinay/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://github.com/vikasjain2003"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vikasjainn/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
 	
 </p>
 
