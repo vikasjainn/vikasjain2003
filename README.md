@@ -22,10 +22,10 @@
 
 
 - 🔭 &nbsp; I’m currently learning new stuffs and creating changes for new world.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks like Software Developent, Full stack and Backend Technologies, 	    Artificial Intelligence, Machine Learning, Cloud Computing.
-- 📫 How to reach me **jainv6644@gmail.com**
-- 🎓 &nbsp; Education in Computer Science & Information Technology.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 📝 &nbsp; Exploring new technologies and developing software solutions and quick hacks like Software Developent, Full stack and Backend Technologies, 	    Artificial Intelligence, Machine Learning, Cloud Computing.
+- 📫 Write a mail 📫 to reach me **jainv6644@gmail.com**
+- 🎓 &nbsp; Education in Computer Science & Information Technology 💻 👨‍💻.
+- ☺️ &nbsp; I believe, a perfect cup of coffee ☕ can be the ultimate solution for any stress. 
 
 
 
