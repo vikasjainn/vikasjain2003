@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm VIKAS JAIN
+## Hey 😃<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm VIKAS JAIN
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
 
 
@@ -6,7 +6,7 @@
 
 
 
-### Let's Connect :coffee:
+### Let's Connect 🌟:
 <hr/>
 <p>
 <a href="https://github.com/vikasjain2003"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
