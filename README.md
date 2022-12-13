@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vinay
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm VIKAS JAIN
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;)
 
 
@@ -21,10 +21,10 @@
 <hr/>
 
 
-- 🔭 &nbsp; I’m currently doing Open source Contributions.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 📫 How to reach me **vinayrajak3766@gmail.com**
-- 🎓 &nbsp; Studying Information Technology.
+- 🔭 &nbsp; I’m currently learning new stuffs and creating changes for new world.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks like Software Developent, Full stack and Backend Technologies, 	Artificial Intelligence, Machine Learning, Cloud Computing.
+- 📫 How to reach me **jainv6644@gmail.com**
+- 🎓 &nbsp; Education in Computer Science & Information Technology.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
