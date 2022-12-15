@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" width="350" />
 
 
 
