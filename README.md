@@ -2,8 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
 
 
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv"></a></p>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350" />
 
 
 ### Let's Connect 🌟:
