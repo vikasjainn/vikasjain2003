@@ -2,7 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
 
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm&psig=AOvVaw0lu5HPSmKqz2fEmCJpvbHQ&ust=1681833580970000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjey7uksf4CFQAAAAAdAAAAABAJ" width="350" />
+<img align="right" alt="GIF" src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="350" />
+<iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
 
 ### Let's Connect 🌟:
 <hr/>
