@@ -2,8 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
 
 
-<img align="right" alt="GIF" src="https://storyset.com/people" width="350" />
-<a href="https://storyset.com/people">People illustrations by Storyset</a>
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm&psig=AOvVaw0lu5HPSmKqz2fEmCJpvbHQ&ust=1681833580970000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjey7uksf4CFQAAAAAdAAAAABAJ" width="350" />
 
 ### Let's Connect 🌟:
 <hr/>
