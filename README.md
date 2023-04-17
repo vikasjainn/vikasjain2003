@@ -2,8 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
 
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/XE90Rm9DzCVfHb7zTe" width="350" />
-
+<img align="right" alt="GIF" src="https://storyset.com/people" width="350" />
+<a href="https://storyset.com/people">People illustrations by Storyset</a>
 
 ### Let's Connect 🌟:
 <hr/>
