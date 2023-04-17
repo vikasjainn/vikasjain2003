@@ -1,7 +1,7 @@
 ## Hey 😃<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm VIKAS JAIN
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
 
-
+<iframe src="https://giphy.com/embed/XE90Rm9DzCVfHb7zTe" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-developer-sharepoint-XE90Rm9DzCVfHb7zTe">via GIPHY</a></p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350" />
 
 
