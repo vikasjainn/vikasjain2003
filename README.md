@@ -34,5 +34,5 @@ Pursuing Computer Science engineering with hands-on experience. working with: Ja
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=bash,git,github,netlify,vscode,ps,postman,azure,heroku&theme=dark,)
+![Tools](https://skillicons.dev/icons?i=bash,git,github,netlify,vscode,ps,postman,heroku&theme=dark,)
 
