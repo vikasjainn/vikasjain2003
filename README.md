@@ -1,69 +1,52 @@
-## Hey 😃<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm VIKAS JAIN
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=55&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Software+Developer;AI/Machine+Learning;)
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
 
+Hi 👋 My name is Vikas Jain
+=============================
 
+Web Developer
+-------------
 
+Pursuing Computer Science engineering with hands-on experience. working with: JavaScript, XML,. Completed . Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+<img src="https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif" width="200" align="right" >
+* ✉️  You can contact me at [jainv6644@gmail.com](mailto:jainv6644@gmail.com)
+* 🧠  I keep learning new technologies
+* 🤝  I'm open to collaborating on Website Development
 
-### Let's Connect 🌟:
-<hr/>
-<p>
-<a href="https://github.com/vikasjain2003"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/vikasjainn/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+### Skills
 
-	
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="flask" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="nextjs" /></a>
+   <a href="(https://www.java.com/en/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="nextjs" /></a>
+   <a href="(https://www.expressjs.com/en/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="nextjs" /></a>
+   <a href="(https://www.rust-lang.org/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="nextjs" /></a>
 </p>
 
+### Tools
 
+![Tools](https://skillicons.dev/icons?i=bash,git,github,netlify,vscode,figma,ps,postman,heroku&theme=dark)
 
-<h3> 💻 About Me </h3>
-<hr/>
-
-
-- 🔭 &nbsp; I’m currently learning new stuffs and creating changes for new world.
-- 📝 &nbsp; Exploring new technologies and developing software solutions and quick hacks like Software Developent, Full stack and Backend Technologies, 	    Artificial Intelligence, Machine Learning, Cloud Computing.
-- 📫 Write a mail 📫 to reach me **jainv6644@gmail.com**
-- 🎓 &nbsp; Education in Computer Science & Information Technology 💻 👨‍💻.
-- ☺️ &nbsp; I believe, a perfect cup of coffee ☕ can be the ultimate solution for any stress. 
+### Socials
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<a href="http://www.github.com/bibinthomas123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bibinthomas123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux%20-%23150458.svg?&style=flat&logo=linux&logoColor=white)&nbsp;
-![ubuntu](https://img.shields.io/badge/ubuntu%20-%23150458.svg?&style=flat&logo=ubuntu&logoColor=white)&nbsp;
-![cloud](https://img.shields.io/badge/cloud%20-%23150458.svg?&style=flat&logo=cloud&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL%20-%23150458.svg?&style=flat&logo=SQL&logoColor=A8B9CC)&nbsp;
-![NoSQL](https://img.shields.io/badge/NoSQL%20-%23150458.svg?&style=flat&logo=NoSQL&logoColor=A8B9CC)&nbsp;
+<!-- <a href="http://www.github.com/bibinthomas123"><img src="https://activity-graph.herokuapp.com/graph?username=bibinthomas123&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/bibinthomas123/story" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bibinthomas123&repo=story&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br>
-
-
-<div align="center">
-
-
-
-
-
-	
-
- 
-
-</div>
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
