@@ -32,7 +32,5 @@ Pursuing Computer Science engineering with hands-on experience. working with: Ja
    <a href="(https://www.expressjs.com/en/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="nextjs" /></a>
    
 
-### Tools
 
-![Tools](https://skillicons.dev/icons?i=bash,git,github,netlify,vscode,ps,postman,heroku&theme=dark)
 
