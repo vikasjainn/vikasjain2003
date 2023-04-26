@@ -3,7 +3,7 @@
 Hi 👋 My name is Vikas Jain
 =============================
 
-Web Developer
+Full Stack Developer And Machine Learning Explorer
 -------------
 
 Pursuing Computer Science engineering with hands-on experience. working with: JavaScript, XML,. Completed . Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
