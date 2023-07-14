@@ -6,7 +6,7 @@ Hi 👋 My name is Vikas Jain
 Full Stack Developer And Machine Learning Explorer
 -------------
 
-Pursuing Computer Science engineering with hands-on experience. working with: JavaScript, XML,. Completed . Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+Pursuing Computer Science engineering with hands-on experience. working with: JavaScript. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
 <img src="https://user-images.githubusercontent.com/75531528/152545832-d214dd8e-ef35-469e-9f76-877b319af27a.gif" width="200" align="right" >
 * ✉️  You can contact me at [jainv6644@gmail.com](mailto:jainv6644@gmail.com)
 * 🧠  I keep learning new technologies
